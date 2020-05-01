@@ -1,2 +1,2 @@
 # web_scraping
-Contains codes related to web scraping
+This is the code for scraping the list of top 250 movies on imdb
